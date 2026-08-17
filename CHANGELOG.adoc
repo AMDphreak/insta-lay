@@ -4,6 +4,7 @@ All notable changes to InstaLay are documented here.
 
 == Timeline
 
+* link:changelog-details/2026-08-17%20-%20platform-detecting-download.adoc[2026-08-17 — Platform-detecting download]
 * link:changelog-details/2026-07-26%20-%20appbar%20version%20about.adoc[2026-07-26 — AppBar version + About]
 * link:changelog-details/2026-07-26%20-%20tapestry%20per%20photo%20borders.adoc[2026-07-26 — Tapestry per-photo borders]
 * link:changelog-details/2026-07-26%20-%20tapestry%20whole%20strip%20export.adoc[2026-07-26 — Tapestry whole-strip export]

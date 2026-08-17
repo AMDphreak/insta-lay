@@ -1,0 +1,5 @@
+= Platform-detecting download
+
+* The website Download page (and home Download Free control) detect OS and architecture, show `(Download) Windows x64 detected` (or the matching label), and let you override the package.
+* The primary button fetches the matching GitHub release asset (Windows setup EXE, macOS DMG, Linux tar.gz) instead of sending visitors to the releases listing.
+* Install docs point at that control rather than “open latest release”.
